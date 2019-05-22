@@ -1,0 +1,12 @@
+.paginationContainer {
+    width: 250px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.paginationButton {
+    width: 100px;
+}
